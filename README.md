@@ -60,4 +60,5 @@ Foto does not impose built-in content restrictions. Users are responsible for ho
 
 ## License
 
-Copyright © 2026 Foto. All rights reserved.
+Apache License 2.0
+Copyright (c) 2025 Qubo Codes.
